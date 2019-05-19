@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: page
 title: CUSTOM SOFTWARE
-landing-title: 'CUSTOM SOFTWARE SOLUTIONS FOR UNIQUE SITUATIONS'
+landing-title: 'Automation is king'
 description: null
 image: null
 author: null
