@@ -3,7 +3,7 @@ title: Atum Systems
 subtitle: A product development agency
 email: hello@atumsystems.com
 description: Product designers. Technology drives innovation.
-baseurl: "/site" # the subpath of your site, e.g. /blog
+baseurl: "/atumsystems.com" # the subpath of your site, e.g. /blog
 url: https://atumsystems.com # the base hostname & protocol for your site
 author:
 street_address: 7083 Hollywood Blvd
