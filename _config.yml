@@ -4,7 +4,7 @@ subtitle: A product development agency
 email: hello@atumsystems.com
 description: Product designers. Technology drives innovation.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://atumsystems.github.io # the base hostname & protocol for your site
+url: https://atumsystems.com # the base hostname & protocol for your site
 author:
 street_address: 7083 Hollywood Blvd
 city: Los Angeles
@@ -12,6 +12,8 @@ state: CA
 zip_code: 90028
 country: United States of America
 phone: (323) 555-5555
+
+theme: just-the-docs
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
