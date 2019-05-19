@@ -1,7 +1,7 @@
 # site settings
 title: Atum Systems
 subtitle: A product development agency
-email: hello@atumsystems.com
+email: go@atumsystems.com
 description: Product designers. Technology drives innovation.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://atumsystems.com # the base hostname & protocol for your site
@@ -23,13 +23,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url: https://gitlab.com/u/
+googleplus_url: https://plus.google.com/u/0/+
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/
 
 # build settings
 markdown: kramdown
