@@ -1,7 +1,7 @@
 ---
 title: Our Process
 layout: landing
-description: 'At Atum Systems we believe in taking a deep look into the problems your enterprise faces. Pursuit of the deepest understanding of your needs produces the highest quality work.'
+description: 'At Atum Systems we believe in taking a deep look into the problems your enterprise faces.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
