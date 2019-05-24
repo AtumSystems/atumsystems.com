@@ -1,7 +1,7 @@
 # site settings
 title: Atum Systems
 subtitle: A product development agency
-email: go@atumsystems.com
+email: g@atumsystems.com
 description: Product designers. Technology drives innovation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://atumsystems.com # the base hostname & protocol for your site
