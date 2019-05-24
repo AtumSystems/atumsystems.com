@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Story
-description: Envision, Execute, Iterate
-image: assets/images/pic11.jpg
+description: Envision. Execute. Iterate.
+image: assets/images/pic02.jpg
 nav-menu: true
 ---
 
