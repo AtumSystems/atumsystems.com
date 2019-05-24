@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: The Story
+description: Envision, Execute, Iterate
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Gone are the days where you need to track down a web developer. With the advances in self-help website design software and the plethora of SaaS products on the market that make it easy to build complex processes into your business - there has never been a better time to take everything you do to the next level and beyond. The time has passed where you needed an army of developers and designers to put in strenuous hours in order to keep your business afloat and your product alive.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+At Atum Systems we believe in taking the vision of building an empire to an entirely new level. So many tools on the market do something really well - but over time your processes become convoluted with too many tools. Imagine taking an approach to your business processes and technology stack that factored in ease of use and growth of your product and company rather than trying to bend over backwards to make those tools work for you. If you're able to capitalize on the cost savings of using third party software, but integrate it into your own software - you have an exponential advantage over your competition no matter what market you are in.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Let us help you dissect what you do and what you want to build so that we can build a platform that brings all the complicated tools and training programs into one single platform that is tailored for nobody's business but your own. Our staff brings a wide range of unique and refined understanding accross several industries. Our client's range from private aviation companies to marketing agencies that want to get an edge over their competition. Come share your vision with us - we would love to turn your next opportunity into a dream come true.
