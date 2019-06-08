@@ -4,6 +4,7 @@ layout: landing
 description: 'At Atum Systems we believe in taking a deep look into the problems your enterprise faces.'
 image: assets/images/pic07.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->

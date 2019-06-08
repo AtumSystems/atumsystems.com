@@ -13,7 +13,6 @@ zip_code: 90028
 country: United States of America
 phone: (323) 250-6849
 
-theme: just-the-docs
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
