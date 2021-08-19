@@ -16,7 +16,7 @@ show_tile: true
 		<header class="major">
 			<h2>What If You Need an App?</h2>
 		</header>
-		<p>Truth be told.. when you say the words custom and app together in a sentance, it sounds expensive. Surprisingly most businesses can benefit dramatically from a simple low cost app. Just ask more questions! We can help!</p>
+		<p>Truth be told.. when you say the words custom and app together in a sentence, it sounds expensive. Surprisingly most businesses can benefit dramatically from a simple low cost app. Just ask more questions! We can help!</p>
 	</div>
 </section>
 
