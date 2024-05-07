@@ -6,12 +6,12 @@ description: Product designers. Technology drives innovation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://atumsystems.com # the base hostname & protocol for your site
 author:
-street_address: 7083 Hollywood Blvd
+street_address: ''
 city: Los Angeles
 state: CA
-zip_code: 90028
+zip_code: 90069
 country: United States of America
-phone: (323) 250-6849
+phone: ''
 
 
 # homepage tiles
