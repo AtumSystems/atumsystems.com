@@ -116,3 +116,10 @@
 	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+	
+	<script type="text/javascript">
+		let tfr = document.createElement('script');
+		tfr.src = "https://grip.fatreports.io/js/v1/track.js";
+		document.head.appendChild(tfr); 
+		window.onigma = rudderanalytics
+	</script>
